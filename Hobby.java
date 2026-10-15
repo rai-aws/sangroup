@@ -4,4 +4,8 @@ displayTraineeHobbyA();
 displayTraineeHobbyB();
 displayTraineeHobbyC();
 }
+
+public static void displayTraineeHobbyC() {
+    System.out.println("Trainee C (Migs)'s hobbies are playing video games, doing calisthenics, and lifemaxxing.");
+}
 }
