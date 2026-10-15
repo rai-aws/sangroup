@@ -10,4 +10,7 @@ public static void displayTraineeHobbyA() {
 }
 
 
+public static void displayTraineeHobbyB() {
+    System.out.println("Trainee B (Kurt) Hobby is Playing Guitar");
+}
 }
