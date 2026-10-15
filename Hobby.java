@@ -4,4 +4,10 @@ displayTraineeHobbyA();
 displayTraineeHobbyB();
 displayTraineeHobbyC();
 }
+
+public static void displayTraineeHobbyA() {
+    System.out.println("Trainee A's hobby: Drinking a lot beers than migs");
+}
+
+
 }
